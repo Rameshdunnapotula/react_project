@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Brad",
+      "email": "rameshdunnapotula@gamil.com",
+      "password": "123544",
+      "id": 1
+    }
+  ]
+}
